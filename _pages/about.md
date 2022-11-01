@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. Institute of Information Science, Beijing Jiaotong University.
+subtitle: Professor, <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. <br />
+Institute of Information Science, Beijing Jiaotong University. <br />
+Office: 1013-B08
 
 profile:
   align: right
