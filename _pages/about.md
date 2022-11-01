@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, Beijing Jiaotong University ([BJTU](http://en.bjtu.edu.cn/)).
+subtitle: Professor, Beijing Jiaotong University (<a href='http://en.bjtu.edu.cn/'>BJTU</a>).
 
 profile:
   align: right
@@ -17,12 +17,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. 
-
-Institute of Information Science, Beijing Jiaotong University. 
-
-Office 1013-B07, Science and Technology Innovation Mansion of BJTU, Beijing 100044. 
-
+<a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. <br />
+Institute of Information Science, Beijing Jiaotong University. <br />
+Office 1013-B07, Science and Technology Innovation Mansion of BJTU, Beijing 100044. <br />
 Prospective Students <a href='http://mepro.bjtu.edu.cn/'>Contact me</a>.
 
 Before joining BJTU, I was an Assistant Professor (RTDa) in the [University of Trento](https://www.unitn.it/en), Italy. 
