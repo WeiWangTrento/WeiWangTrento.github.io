@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office: 1013-B07</p>
-    <p>Science & Technology Innov. Mansion of BJTU</p>
+    <p>Sci. & Tech. Innov. Mansion of BJTU</p>
     <p>City: Beijing 100044</p>
 
 news: true  # includes a list of news items
@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. <br />
-Institute of Information Science, Beijing Jiaotong University. <br />
-Office: 1013-B07, Science and Technology Innovation Mansion of BJTU, Beijing 100044. <br />
-Email: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com. <br />
-Prospective Students: <a href='http://mepro.bjtu.edu.cn/'>Contact me</a>.
+Institute of Information Science | Beijing Jiaotong University. <br />
+**Office**: 1013-B07, Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
+**Email**: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com. <br />
+**Prospective Students**: <a href='http://mepro.bjtu.edu.cn/'>Contact me</a>.
 
 Before joining BJTU, I was an Assistant Professor (RTDa) in the [University of Trento](https://www.unitn.it/en), Italy. 
 I was a Postdoctoral Research Fellow in [CVLab](https://cvlab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/), working with Prof. [Pascal Fua](https://people.epfl.ch/cgi-bin/people?id=112366&op=bio&lang=en&cvlang=en) and Dr. [Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en).
