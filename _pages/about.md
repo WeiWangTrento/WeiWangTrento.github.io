@@ -2,16 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p>Professor, <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. </p>
+<p>Institute of Information Science | Beijing Jiaotong University</p>
+<p>Office: 1013-B08, Science & Technology Innovation Mansion of BJTU, Beijing 100044</p>
+<p>Contacts: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com</p>
+<p>Prospective Students : Contact me.</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: 1013-B07</p>
+    <p>Address street: Science & Technology Innovation Mansion of BJTU</p>
+    <p>City: Beijing 100044</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
