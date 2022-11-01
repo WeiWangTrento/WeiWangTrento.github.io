@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. <br />
 Institute of Information Science | Beijing Jiaotong University. <br />
-**Office**: 1013-B07, Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
+**Office**: 1013-B07, <br />
+Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
 **Email**: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com. <br />
 **Prospective Students**: <a href='http://mepro.bjtu.edu.cn/'>Contact me</a>.
 
