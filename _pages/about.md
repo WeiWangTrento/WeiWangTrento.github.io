@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. Institute of Information Science, Beijing Jiaotong University. Office 1013-B07, Science and Technology Innovation Mansion of BJTU, Beijing 100044. Prospective Students <a href='http://mepro.bjtu.edu.cn/'>Contact me</a>.
+subtitle: Professor, Beijing Jiaotong University ([BJTU](http://en.bjtu.edu.cn/)).
 
 profile:
   align: right
@@ -10,15 +10,22 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office: 1013-B07</p>
-    <p>Address street: Science & Technology Innovation Mansion of BJTU</p>
+    <p>Science & Technology Innovation Mansion of BJTU</p>
     <p>City: Beijing 100044</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. 
 
-Before joining [BJTU](http://en.bjtu.edu.cn/), I was an Assistant Professor (RTDa) in the [University of Trento](https://www.unitn.it/en), Italy. 
+Institute of Information Science, Beijing Jiaotong University. 
+
+Office 1013-B07, Science and Technology Innovation Mansion of BJTU, Beijing 100044. 
+
+Prospective Students <a href='http://mepro.bjtu.edu.cn/'>Contact me</a>.
+
+Before joining BJTU, I was an Assistant Professor (RTDa) in the [University of Trento](https://www.unitn.it/en), Italy. 
 I was a Postdoctoral Research Fellow in [CVLab](https://cvlab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/), working with Prof. [Pascal Fua](https://people.epfl.ch/cgi-bin/people?id=112366&op=bio&lang=en&cvlang=en) and Dr. [Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en).
 I received Ph.D Degree from University of Trento, supervised by Prof. [Nicu Sebe](http://disi.unitn.it/~sebe/).
 I was a visiting student from 2015 to 2016 in the Learning and Vision (LV) Group at National University of Singapore (NUS), working with [Prof. Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/) and Prof. [Jiashi Feng](https://sites.google.com/site/jshfeng/).
