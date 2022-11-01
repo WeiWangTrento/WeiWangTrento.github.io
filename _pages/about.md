@@ -16,7 +16,10 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before joining BJTU, I was an Assistant Professor (RTDa) in the [Department of Information Engineering and Computer Science](https://www.disi.unitn.it/) at [University of Trento](https://www.unitn.it/en), Italy. 
+I was a Postdoctoral Research Fellow in [CVLab](https://cvlab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/), working with Prof. [Pascal Fua](https://people.epfl.ch/cgi-bin/people?id=112366&op=bio&lang=en&cvlang=en) and Dr. [Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en).
+I received Ph.D Degree from University of Trento, supervised by Prof. [Nicu Sebe](http://disi.unitn.it/~sebe/),
+I was a visiting student from 2015 to 2016 in the Learning and Vision (LV) Group at National University of Singapore (NUS), working with [Prof. Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/) and Prof. [Jiashi Feng](https://sites.google.com/site/jshfeng/).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
