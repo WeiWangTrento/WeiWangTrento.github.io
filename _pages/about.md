@@ -2,11 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>.
-Institute of Information Science, Beijing Jiaotong University.
-Office: 1013-B08, Science & Technology Innovation Mansion of BJTU, Beijing 100044.
-Contacts: wei.wang AT bjtu.edu.cn, wangwei1990 AT gmail.com.
-Prospective Students : Contact me.
+subtitle: Professor, <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. Institute of Information Science, Beijing Jiaotong University.
 
 profile:
   align: right
