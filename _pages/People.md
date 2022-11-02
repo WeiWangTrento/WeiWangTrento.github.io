@@ -35,7 +35,7 @@ nav: true
 
 ## Master Students
 
-<table  rules="none" align="center">
+<table  rules="none" align="left">
 	<tr>
 		<td width="400">
 			<center>
