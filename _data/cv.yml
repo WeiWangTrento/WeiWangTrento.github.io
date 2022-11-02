@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D
       institution: University of Trento, Italy
       year: 2018
       description:
@@ -22,37 +22,34 @@
             - Face Landmark Detection, Face Expression Synthesis, Face Aging
             - Image Generation, Action Recogntion.
 
-    - title:  Master of Engineering
+    - title:  Master
       institution: Southern Denmark University, Sonderborg, Denmark
       year: 2013
       description:
         - Majored in Mechatronics
         - Master Thesis Supervisor (Soren Top)
 
-#- title: Experience
-#  type: time_table
-#  contents:
-#    - title: Professor
-#      institution: Institute of Information Science, Beijing Jiaotong University.
-#      year: 2022 - Present
-#      description:
-#        - We always have openings for outstanding students.
-#        - title: Interested Master and PhD candidates are strongly encouraged to contact me by email. Please clearly state your
-#          contents:
-#            - English skills
-#            - Coding skills
-#            - Research interests
-#
-#    - title: Assistant Professor
-#      institution: University of Trento, Italy
-#      year: 2020 - 2022
-#      description:
-#        - Teaching Multimodal Machine Learning
-#
-#
-#    - title: Postdoc Researcher
-#      institution: École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
-#      year: 2018 - 2020
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor
+      institution: Institute of Information Science, Beijing Jiaotong University.
+      year: 2022 - Present
+      description:
+        - We always have openings for outstanding students.
+        - title: Interested Master and PhD candidates are strongly encouraged to contact me by email. Please clearly state your
+          contents:
+            - English skills
+            - Coding skills
+            - Research interests
+    - title: Assistant Professor
+      institution: University of Trento, Italy
+      year: 2020 - 2022
+      description:
+        - Teaching Multimodal Machine Learning
+    - title: Postdoc Researcher
+      institution: École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+      year: 2018 - 2020
 #
 #- title: Honors and Awards
 #  type: time_table
