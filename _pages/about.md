@@ -22,7 +22,7 @@ Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
 **Email**: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com. <br />
 **Prospective Students**: [Contact me](/publications/).
 
-Before joining BJTU, I was an Assistant Professor (RTDa) in the [University of Trento](https://www.unitn.it/en), Italy. 
+Before joining BJTU, I was an Assistant Professor in the [University of Trento](https://www.unitn.it/en), Italy. 
 I was a Postdoctoral Research Fellow in [CVLab](https://cvlab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/) in Switzerland, working with Prof. [Pascal Fua](https://people.epfl.ch/cgi-bin/people?id=112366&op=bio&lang=en&cvlang=en) and Dr. [Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en).
 
 I received Ph.D Degree from University of Trento, supervised by Prof. [Nicu Sebe](http://disi.unitn.it/~sebe/).
