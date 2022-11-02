@@ -6,7 +6,7 @@ description: People in our lab
 nav: true
 ---
 ## Phd Students
-<table  rules="none" align="left">
+<table  rules="none" align="center">
 	<tr>
 		<td width="400">
 			<center>
