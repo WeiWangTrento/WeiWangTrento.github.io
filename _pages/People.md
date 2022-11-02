@@ -26,12 +26,37 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/lizx.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Zixiang Li(2023)</font> 
+				<font color="AAAAAA">Zixiang Li(2024 co-supervised)</font> 
 			</center>
 		</td>		
 	</tr>
 </table>
 
+<table  rules="none" align="center">
+	<tr>
+		<td width="400">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/songy.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Yue Song(UniTrento,co-supervised)</font> 
+			</center>
+		</td>
+		<td width="400">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/zhangjc.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Jichao Zhang(UniTrento,co-supervised)</font> 
+			</center>
+		</td>
+		<td width="400">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/renb.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Bin Ren(UniTrento,co-supervised)</font> 
+			</center>
+		</td>		
+	</tr>
+</table>
 
 ## Master Students
 
