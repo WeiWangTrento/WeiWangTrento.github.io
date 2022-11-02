@@ -1,7 +1,7 @@
 ---
 layout: post
-title: One paper was accepted by **NeurIPS**.
-date: 2015-11-07 16:11:00-0400
+title: One paper was accepted by NeurIPS.
+date: 2022-10-07 16:11:00-0400
 inline: false
 ---
 
