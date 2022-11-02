@@ -31,8 +31,8 @@ I was a visiting student from 2015 to 2016 in the Learning and Vision (LV) Group
 I got my Master of Engineering degree from Southern Denmark University, and Bachelor of Science degree from Northwestern Polytechnical University.
 
 **Research Interests**:
-My research interests include **computer vision** and **machine learning**. <br />
-Computer Vision: image/video generation, style transfer, segmentation, classification, vision & language, <br />
+My research interests include computer vision and machine learning. <br />
+- item Computer Vision: image/video generation, style transfer, segmentation, classification, vision & language, <br />
 with specific interest on *face analysis* including face landmark detection, face aging, face synthesis, etc. <br />
-Machine Learning: numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
+- item Machine Learning: numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
 More details can be found [here](/publications/).
