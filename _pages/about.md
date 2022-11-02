@@ -29,3 +29,10 @@ I received Ph.D Degree from University of Trento, supervised by Prof. [Nicu Sebe
 I was a visiting student from 2015 to 2016 in the Learning and Vision (LV) Group at National University of Singapore (NUS), working with [Prof. Shuicheng Yan](https://www.ece.nus.edu.sg/stfpage/eleyans/) and Prof. [Jiashi Feng](https://sites.google.com/site/jshfeng/).
 
 I got my Master of Engineering degree from Southern Denmark University, and Bachelor of Science degree from Northwestern Polytechnical University.
+
+**Research Interests**:
+My research interests include **computer vision** and **machine learning**. <br />
+Computer Vision: image/video generation, style transfer, segmentation, classification, vision & language, <br />
+with specific interest on *face analysis* including face landmark detection, face aging, face synthesis, etc. <br />
+Machine Learning: numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
+More details can be found [here](/publications/).
