@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: One paper was accepted by NeurIPS. emoji! :sparkles:
+date: 2022-10-07 09:00:00-0400
 inline: false
 ---
 
