@@ -29,6 +29,12 @@
         - Majored in Mechatronics
         - Master Thesis Supervisor (Soren Top)
 
+    - title: Bachelor
+        institution: Northwestern Polytechnical University
+        year: 2011
+        description:
+          - Majored in Information and Computing Science, Institute of Applied Mathematics
+
 - title: Experience
   type: time_table
   contents:
@@ -52,12 +58,12 @@
       year: 2018 - 2020
       description: Head of the Lab (Pascal Fua)
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 2022
-#      items:
-#        - ELLIS member
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - ELLIS member
 #    - year: 2018
 #      items:
 #        - Best Doctoral Thesis Award from CVPRL, Italy
