@@ -32,7 +32,8 @@ I got my Master of Engineering degree from Southern Denmark University, and Bach
 
 **Research Interests**:
 My research interests include computer vision and machine learning. <br />
-- item Computer Vision: image/video generation, style transfer, segmentation, classification, vision & language, <br />
+- Computer Vision: image/video generation, style transfer, segmentation, classification, vision & language, <br />
 with specific interest on *face analysis* including face landmark detection, face aging, face synthesis, etc. <br />
-- item Machine Learning: numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
+- Machine Learning: numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
+
 More details can be found [here](/publications/).
