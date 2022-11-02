@@ -22,7 +22,7 @@
             - Face Landmark Detection, Face Expression Synthesis, Face Aging
             - Image Generation, Action Recogntion.
 
-    - title:  Master
+    - title: Master
       institution: Southern Denmark University, Sonderborg, Denmark
       year: 2013
       description:
@@ -30,10 +30,10 @@
         - Master Thesis Supervisor (Soren Top)
 
     - title: Bachelor
-        institution: Northwestern Polytechnical University
-        year: 2011
-        description:
-          - Majored in Information and Computing Science, Institute of Applied Mathematics
+      institution: Northwestern Polytechnical University
+      year: 2011
+      description:
+        - Majored in Information and Computing Science, Institude of Applied Mathematics
 
 - title: Experience
   type: time_table
