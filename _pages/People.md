@@ -6,7 +6,31 @@ description: People in our lab
 nav: true
 ---
 ## Phd Students
-
+<table  rules="none" align="center">
+	<tr>
+		<td width="400">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wub.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Bin Wu(2023)</font> 
+			</center>
+		</td>
+		<td width="400">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/zhangc.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Chi Zhang(2023)</font> 
+			</center>
+		</td>
+		<td width="400">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/lizx.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Zixiang Li(2023)</font> 
+			</center>
+		</td>		
+	</tr>
+</table>
 
 
 ## Master Students
@@ -22,7 +46,7 @@ nav: true
 		</td>
 		<td width="400">
 			<center>
-				<img src="" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/heyk.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA">Yikang He(2023)</font> 
 			</center>
