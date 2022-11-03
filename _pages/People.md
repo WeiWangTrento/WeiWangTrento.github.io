@@ -18,7 +18,7 @@ nav: true
 		</td>
 		<td width="600" >
 			<left>
-				<font size=20>Prof. Dr. Wang Wei <br/>
+				<font size=12>Prof. Dr. Wang Wei <br/>
                                     Director & PI <br/>
                                     Research Interests:  <br/>
                                     Computer Vision and Machine Learning</font> 
