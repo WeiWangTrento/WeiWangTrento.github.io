@@ -2,7 +2,7 @@
 layout: page
 permalink: /Seminar/
 title: Seminar
-description: Our team atmosphere is very positive and harmonious,and we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
+description: Our team atmosphere is very positive and harmonious,we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
 nav: true
 ---
 
