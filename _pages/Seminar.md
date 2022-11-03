@@ -55,17 +55,17 @@ nav: true
 	<tr>
 		<td width="150" align="center" >
 			<center>
-				<font><b>Date<b></font> 
+				<font><b>Date</b></font> 
 			</center>
 		</td>
 		<td width="150" align="center" >
 			<center>
-				<font><b>Presenter<b></font> 
+				<font><b>Presenter</b></font> 
 			</center>
 		</td>
 		<td width="800" align="center" >
 			<center>
-				<font><b>Topic or paper<b></font> 
+				<font><b>Topic or paper</b></font> 
 			</center>
 		</td>		
 	</tr>
