@@ -6,6 +6,10 @@ description: Our group holds  weekly seminars to share our members' recent resea
 nav: true
 ---
 ### 2022.11.1
-<font color="AAAAAA"><a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">pdf</a></font>   
+<font>Bin Wu,Tricks  for model fine-tuning and migration learning on pytorch(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font></br>
+<font>Zixiang Li,You Look Only Once(YOLO)v1,v2,v3(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font></br>
+<font>Yikang He,StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font></br>
+<font>Haoyu Wang,Classical deep learning based image segmentation algorithms: UNet,PSPNet,DeepLab(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font></br>
+  
   
 
