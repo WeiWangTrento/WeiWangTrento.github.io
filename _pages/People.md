@@ -6,15 +6,19 @@ nav: true
 ---
 
 
-# Principal Investigator
+## Principal Investigator
 <br>
 	
 <table  rules="none">
 	<tr>
 		<td width="230">
 			<left>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
+			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
 				<br/>
+			</left>
+		</td>
+		<td width="255" >
+			<left>
 				<font color="AAAAAA">Prof. Dr. Wang Wei <br/>
                                     Director & PI <br/>
                                     Research Interests:  <br/>
@@ -28,7 +32,7 @@ nav: true
 <br>
 
 
-# Students
+## Students
 <br>
 <br>
 
