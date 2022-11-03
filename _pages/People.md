@@ -1,11 +1,24 @@
 ---
 layout: page
 permalink: /People/
-title: People
-description: People in our lab
+title: People 
 nav: true
 ---
-## Phd Students
+## Principal Investigator
+<table  rules="none" align="center">
+	<tr>
+		<td width="400">
+			<left>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei.jpg" width=180 />
+				<br/>
+				<font color="AAAAAA">Prof. Dr. Wang Wei <br/>
+                                    Director & PI <br/>
+                                    Research Interests:  <br/>
+                                    Computer Vision and Machine Learning</font> 
+			</left>
+		</td>
+</table>
+## Ph.D Students
 <table  rules="none" align="center">
 	<tr>
 		<td width="400">
