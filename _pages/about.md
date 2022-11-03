@@ -24,7 +24,7 @@ Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
 **Email**: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com. <br />
 
 **Prospective Students**: I am looking for self-motivated Master and Ph.D students to join my group. 
-If you are interested, please drop me an email with your CV and clearly state your English skills Coding skills and Research interests.
+If you are interested, please drop me an email with your CV and clearly state your English skills, Coding skills, and Research interests.
 
 
 **About Me** <br />
