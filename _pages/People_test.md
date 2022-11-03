@@ -13,7 +13,7 @@ nav: true
 	<tr>
 		<td width="230">
 			<left>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei.jpg" width=230/>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
 				<br/>
 				<font color="AAAAAA">Prof. Dr. Wang Wei <br/>
                                     Director & PI <br/>
