@@ -17,7 +17,9 @@ nav: true
                                     Computer Vision and Machine Learning</font> 
 			</left>
 		</td>
+    </tr>
 </table>
+
 ## Ph.D Students
 <table  rules="none" align="center">
 	<tr>
