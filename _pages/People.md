@@ -87,7 +87,9 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/renb.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (UniTrento,co-supervised)</font> 
+				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (co-supervised)</font> 
+                <br/>
+                <font color="AAAAAA">University of Trento, Italy.</font>
 			</center>
 		</td>
 		<td width="255" align="center">
@@ -105,14 +107,14 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wanghy.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Haoyu Wang(2023)</font> 
+				<font color="AAAAAA">Haoyu Wang (2023)</font> 
 			</center>
 		</td>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/heyk.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Yikang He(2023)</font> 
+				<font color="AAAAAA">Yikang He (2023)</font> 
 			</center>
 		</td>
 	</tr>
