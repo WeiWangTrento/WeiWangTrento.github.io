@@ -22,7 +22,7 @@ nav: true
                                     Director & PI <br/>
                                     Research Interests:  <br/>
                                     Computer Vision and Machine Learning<br/>
-									<a href="wei.wang@bjtu.edu.cn">[Email]   </a>
+									<a href="mailto:wei.wang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a>
 				</font> 
 			</left>
