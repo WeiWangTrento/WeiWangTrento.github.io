@@ -4,12 +4,12 @@ permalink: /People/
 title: People 
 nav: true
 ---
-## Principal Investigator
+# Principal Investigator
 <table  rules="none" align="center">
 	<tr>
-		<td width="200">
+		<td width="400">
 			<left>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei.jpg" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei.jpg" width=255 />
 				<br/>
 				<font color="AAAAAA">Prof. Dr. Wang Wei <br/>
                                     Director & PI <br/>
@@ -19,8 +19,11 @@ nav: true
 		</td>
     </tr>
 </table>
+<br><br><br><br>
 
-## Ph.D Students
+
+
+### Ph.D Students
 <table  rules="none" align="center">
 	<tr>
 		<td width="400">
@@ -73,7 +76,7 @@ nav: true
 	</tr>
 </table>
 
-## Master Students
+### Master Students
 
 <table  rules="none" align="center">
 	<tr>
@@ -98,4 +101,4 @@ nav: true
 
 
 
-## Undergraduate Students
+### Undergraduate Students
