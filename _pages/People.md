@@ -11,7 +11,7 @@ nav: true
 	
 <table  rules="none">
 	<tr>
-		<td width="320">
+		<td width="290">
 			<left>
 			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
 			</left>
