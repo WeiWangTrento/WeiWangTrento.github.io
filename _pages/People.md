@@ -14,7 +14,6 @@ nav: true
 		<td width="230">
 			<left>
 			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
-				<br/>
 			</left>
 		</td>
 		<td width="255" >
