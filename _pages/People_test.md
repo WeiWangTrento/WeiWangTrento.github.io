@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /People_test/
-title: 
+title: People_test
 nav: true
 ---
 
 
-## Principal Investigator
-
+# Principal Investigator
+<br>
 	
 <table  rules="none">
 	<tr>
@@ -23,15 +23,18 @@ nav: true
 		</td>
     </tr>
 </table>
-<br><br>
-
-
-## Students
+<br>
+<br>
 <br>
 
 
-### Phd
+# Students
+<br>
+<br>
 
+
+
+### Phd
 <table  rules="none" align="center">
 	<tr>
 		<td width="400">
@@ -83,9 +86,9 @@ nav: true
 		</td>		
 	</tr>
 </table>
+<br>
 
 ### Master
-
 <table  rules="none" align="center">
 	<tr>
 		<td width="400">
@@ -106,5 +109,6 @@ nav: true
 </table>
 
 
+<br>
 
-#### Undergraduate
+### Undergraduate
