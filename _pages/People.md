@@ -16,9 +16,9 @@ nav: true
 			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
 			</left>
 		</td>
-		<td width="255" >
+		<td width="600" >
 			<left>
-				<font size="3">Prof. Dr. Wang Wei <br/>
+				<font size=20>Prof. Dr. Wang Wei <br/>
                                     Director & PI <br/>
                                     Research Interests:  <br/>
                                     Computer Vision and Machine Learning</font> 
