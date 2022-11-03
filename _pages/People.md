@@ -34,7 +34,7 @@ nav: true
 
 
 <body>
-    <h2>Phd</h1>
+    <h2>Phd</h2>
 </body>
 <br>
 
@@ -92,7 +92,7 @@ nav: true
 
 <br>
 <body>
-    <h2>Master</h1>
+    <h2>Master</h2>
 </body>
 <br>
 
@@ -120,6 +120,6 @@ nav: true
 
 <br>
 <body>
-    <h2>Undergraduate</h1>
+    <h2>Undergraduate</h2>
 </body>
 <br>
