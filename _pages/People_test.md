@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /People_test/
-title: People_test
+title: 
 nav: true
 ---
 
