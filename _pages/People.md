@@ -38,21 +38,21 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/songy.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://kingjamessong.github.io/">Yue Song(UniTrento,co-supervised)</a></font> 
+				<font color="AAAAAA"><a href="https://kingjamessong.github.io/">Yue Song</a>(UniTrento,co-supervised)</font> 
 			</center>
 		</td>
 		<td width="400">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/zhangjc.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang(UniTrento,co-supervised)</a></font> 
+				<font color="AAAAAA"><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a>(UniTrento,co-supervised)</font> 
 			</center>
 		</td>
 		<td width="400">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/renb.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren(UniTrento,co-supervised)</a></font> 
+				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a>(UniTrento,co-supervised)</font> 
 			</center>
 		</td>		
 	</tr>
