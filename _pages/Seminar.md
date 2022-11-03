@@ -2,14 +2,57 @@
 layout: page
 permalink: /Seminar/
 title: Seminar
-description: Our group holds  weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
+description: 
 nav: true
 ---
-### 2022.11.1
-<font>Bin Wu,Tricks  for model fine-tuning and migration learning on pytorch(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-<font>Zixiang Li,You Look Only Once(YOLO)v1,v2,v3(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-<font>Yikang He,StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-<font>Haoyu Wang,Classical deep learning based image segmentation algorithms: UNet,PSPNet,DeepLab(<a href="https://github.com/WeiWangTrento/WeiWangTrento.github.io/raw/master/assets/pdf/why1101.pdf">slides</a>)</font>
+#### Our team atmosphere is very positive and harmonious,and we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
+<br>
+<table  rules="none" align="center">
+	<tr>
+		<td width="130" align="center">
+			<center>
+				<font>Date</font> 
+			</center>
+		</td>
+		<td width="130" align="center">
+			<center>
+				<font>Presenter</font> 
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+				<font>Topic or paper</font> 
+			</center>
+		</td>		
+	</tr>
+  
+</table>
+<table  rules="none" align="center">
+	<tr>
+		<td width="130" align="center">
+			<center>
+				<font>2022.11.01</font> 
+			</center>
+		</td>
+		<td width="130" align="center">
+			<center>
+				<font>Bin Wu</font><br/>
+        <font>Zixiang Li</font><br/>
+        <font>Yikang He</font><br/>
+        <font>Haoyu Wang</font><br/>
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+				<font>Tricks  for model fine-tuning and migration learning on pytorch(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+        <font>You Look Only Once(YOLO)v1,v2,v3(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+        <font>StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+        <font>Classical deep learning based image segmentation algorithms: UNet,PSPNet,DeepLab(<a href="https://github.com/WeiWangTrento/WeiWangTrento.github.io/raw/master/assets/pdf/why1101.pdf">slides</a>)</font><br/>
+			</center>
+		</td>		
+	</tr>
+</table>
+
   
   
 
