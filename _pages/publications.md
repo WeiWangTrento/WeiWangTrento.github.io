@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Selected Publications
-description: Publications by categories in reversed chronological order.
+title: Publications
+description: Selected Publications by categories in reversed chronological order. Most of them are **CCF-A** ranking papers.
 years: [2022,2021,2020,2019,2018,2017,2016]
 nav: true
 nav_order: 1
