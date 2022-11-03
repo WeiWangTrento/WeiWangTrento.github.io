@@ -8,6 +8,7 @@ nav: true
 <body>
     <h1 align="center">Principal Investigator</h1>
 </body>
+<br>
 	
 <table  rules="none" align="center">
 	<tr>
@@ -23,14 +24,20 @@ nav: true
 		</td>
     </tr>
 </table>
-<br><br><br>
+<br>
 
 
 <body>
     <h1 align="center">Students</h1>
 </body>
-	
-### Ph.D
+<br>
+
+
+<body>
+    <h2>Phd</h1>
+</body>
+<br>
+
 <table  rules="none" align="center">
 	<tr>
 		<td width="400">
@@ -83,7 +90,12 @@ nav: true
 	</tr>
 </table>
 
-### Master
+<br>
+<body>
+    <h2>Master</h1>
+</body>
+<br>
+
 
 <table  rules="none" align="center">
 	<tr>
@@ -106,6 +118,8 @@ nav: true
 
 
 
-
-
-### Undergraduate
+<br>
+<body>
+    <h2>Undergraduate</h1>
+</body>
+<br>
