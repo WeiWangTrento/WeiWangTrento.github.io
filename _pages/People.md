@@ -5,9 +5,9 @@ title: People
 nav: true
 ---
 ## Principal Investigator
-<table  rules="none" align="left">
+<table  rules="none" align="center">
 	<tr>
-		<td width="400">
+		<td width="200">
 			<left>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei.jpg" width=180 />
 				<br/>
