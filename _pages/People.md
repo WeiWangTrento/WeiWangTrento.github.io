@@ -1,16 +1,15 @@
 ---
 layout: page
 permalink: /People/
-title: People 
+title: People
 nav: true
 ---
 
-<body>
-    <h1 align="center">Principal Investigator</h1>
-</body>
+
+# Principal Investigator
 <br>
 	
-<table  rules="none" align="center">
+<table  rules="none">
 	<tr>
 		<td width="230">
 			<left>
@@ -27,90 +26,83 @@ nav: true
 <br>
 <br>
 <br>
-<br>
 
 
-<body>
-    <h1 align="center">Students</h1>
-</body>
+# Students
 <br>
 <br>
 
 
-<body>
-    <h2 align="center">Phd</h2>
-</body>
-<br>
 
-<table  rules="none" align="center">
+### Phd
+<table  rules="none" >
 	<tr>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wub.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA">Bin Wu(2023)</font> 
 			</center>
 		</td>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/zhangc.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA">Chi Zhang(2023)</font> 
 			</center>
 		</td>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/lizx.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA">Zixiang Li(2024 co-supervised)</font> 
 			</center>
 		</td>		
-	</tr>
-</table>
-
-<table  rules="none" align="center">
-	<tr>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/songy.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA"><a href="https://kingjamessong.github.io/">Yue Song</a> (UniTrento,co-supervised)</font> 
 			</center>
 		</td>
-		<td width="400">
+	</tr>
+</table>
+
+<table  rules="none">
+	<tr>
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/zhangjc.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA"><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a> (UniTrento,co-supervised)</font> 
 			</center>
 		</td>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/renb.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (UniTrento,co-supervised)</font> 
 			</center>
+		</td>
+		<td width="255" align="center">
+		</td>		
+		<td width="255" align="center">
 		</td>		
 	</tr>
 </table>
-
-<br>
-<body>
-    <h2 align="center">Master</h2>
-</body>
 <br>
 
-
-<table  rules="none" align="center">
+### Master
+<table  rules="none">
 	<tr>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wanghy.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA">Haoyu Wang(2023)</font> 
 			</center>
 		</td>
-		<td width="400">
+		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/heyk.jpg" width=180 />
 				<br/>
@@ -121,9 +113,6 @@ nav: true
 </table>
 
 
+<br>
 
-<br>
-<body>
-    <h2 align="center">Undergraduate</h2>
-</body>
-<br>
+### Undergraduate
