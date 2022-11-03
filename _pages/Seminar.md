@@ -6,25 +6,26 @@ description: Our team atmosphere is very positive and harmonious,and we always k
 nav: true
 ---
 
-<table  rules="none" align="center" >
-	<tr bgcolor="#6E9BC5" height="50">
-		<td width="150" >
+<table  rules="none" align="center" bgcolor="#6E9BC5" >
+	<tr>
+		<td width="150" align="center" >
 			<center>
 				<font><b>Date<b></font> 
 			</center>
 		</td>
-		<td width="150" >
+		<td width="150" align="center" >
 			<center>
 				<font><b>Presenter<b></font> 
 			</center>
 		</td>
-		<td width="800">
+		<td width="800" align="center" >
 			<center>
 				<font><b>Topic or paper<b></font> 
 			</center>
 		</td>		
 	</tr>
-</table><br/>			
+</table>
+<br>			
 <table  rules="none" align="center" >
 	<tr  bgcolor="#AED0EE">
 		<td width="150" align="center">
