@@ -5,16 +5,17 @@ title: Seminar
 description: 
 nav: true
 ---
-#### Our team atmosphere is very positive and harmonious,and we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
+Our team atmosphere is very positive and harmonious,and we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
 <br>
-<table  rules="none" align="center">
+
+<table  rules="none" align="center" background="AAAAAA">
 	<tr>
-		<td width="130" align="center">
+		<td width="150" align="center">
 			<center>
 				<font>Date</font> 
 			</center>
 		</td>
-		<td width="130" align="center">
+		<td width="150" align="center">
 			<center>
 				<font>Presenter</font> 
 			</center>
@@ -27,14 +28,15 @@ nav: true
 	</tr>
   
 </table>
-<table  rules="none" align="center">
+<br>
+<table  rules="none" align="center" background="AAAAAA">
 	<tr>
-		<td width="130" align="center">
+		<td width="150" align="center">
 			<center>
 				<font>2022.11.01</font> 
 			</center>
 		</td>
-		<td width="130" align="center">
+		<td width="150" align="center">
 			<center>
 				<font>Bin Wu</font><br/>
         <font>Zixiang Li</font><br/>
