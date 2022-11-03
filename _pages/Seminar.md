@@ -2,13 +2,10 @@
 layout: page
 permalink: /Seminar/
 title: Seminar
-description: 
+description: Our team atmosphere is very positive and harmonious,and we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
 nav: true
 ---
-Our team atmosphere is very positive and harmonious,and we always keep communication and learn from each other to improve together.We hold weekly seminars to share our members' recent research progress and discuss cutting-edge  research on machine learning and computer vision.
-<br>
-
-<table  rules="none" align="center" background="AAAAAA">
+<table  rules="none" align="center" background="#AAAAAA">
 	<tr>
 		<td width="150" align="center">
 			<center>
@@ -29,7 +26,7 @@ Our team atmosphere is very positive and harmonious,and we always keep communica
   
 </table>
 <br>
-<table  rules="none" align="center" background="AAAAAA">
+<table  rules="none" align="center" background="#AAAAAA">
 	<tr>
 		<td width="150" align="center">
 			<center>
