@@ -11,14 +11,14 @@ nav: true
 	
 <table  rules="none">
 	<tr>
-		<td width="230">
+		<td width="320">
 			<left>
 			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/wangwei_low_rev.png" width=230/>
 			</left>
 		</td>
 		<td width="255" >
 			<left>
-				<font color="AAAAAA">Prof. Dr. Wang Wei <br/>
+				<font size="8">Prof. Dr. Wang Wei <br/>
                                     Director & PI <br/>
                                     Research Interests:  <br/>
                                     Computer Vision and Machine Learning</font> 
