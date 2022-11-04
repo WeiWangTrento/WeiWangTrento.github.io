@@ -40,28 +40,30 @@ nav: true
 
 
 
-### Phd
+### Ph.D
 <table  rules="none" >
 	<tr>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Bin Wu(2023)</font> 
+				<font color="AAAAAA">Bin Wu</font> <br/>
+                (To be enrolled in 2023)
 			</center>
 		</td>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangc.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Chi Zhang(2023)</font> 
+				<font color="AAAAAA">Chi Zhang</font><br/>
+                (To be enrolled in 2023)
 			</center>
 		</td>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Zixiang Li(2024 co-supervised)</font> 
+				<font color="AAAAAA">Zixiang Li (2024 co-supervised)</font> 
 			</center>
 		</td>		
 		<td width="255" align="center">
