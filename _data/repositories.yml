@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - WeiWangTrento
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - KingJamesSong/FastDifferentiableMatSqrt
+  - KingJamesSong/DifferentiableSVD
+  - zhangqianhui/3DSGAN
+  - KingJamesSong/FastDifferentiableMatSqrt
+  - WeiWangTrento/Robust-Differentiable-SVD
+  - WeiWangTrento/Recurrent-U-Net
+  - Ha0Tang/GestureGAN
