@@ -47,32 +47,33 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Bin Wu</font> <br/>
-                (To be enrolled in 2023)
+				<font>Bin Wu</font> <br/>
+                		(To be enrolled in 2023)
 			</center>
 		</td>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangc.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Chi Zhang</font><br/>
-                (To be enrolled in 2023)
+				<font>Chi Zhang</font><br/>
+                		(To be enrolled in 2023)
 			</center>
 		</td>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Zixiang Li (2024 co-supervised)</font> 
+				<font>Zixiang Li</font><br/>
+				 (2024 co-supervised)
 			</center>
 		</td>		
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://kingjamessong.github.io/">Yue Song</a> (co-supervised)</font>
+				<font><a href="https://kingjamessong.github.io/">Yue Song</a> (co-supervised)</font>
 				<br/>
-                		<font color="AAAAAA">University of Trento, Italy.</font>
+                		<font>University of Trento, Italy.</font>
 			</center>
 		</td>
 	</tr>
@@ -84,9 +85,9 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjc.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a> (co-supervised)</font>
+				<font><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a> (co-supervised)</font>
 				<br/>
-                		<font color="AAAAAA">University of Trento, Italy.</font>
+                		<font>University of Trento, Italy.</font>
 			</center>
 		</td>
 		<td width="255" align="center">
@@ -94,8 +95,8 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/renb.jpg" width=180 />
 				<br/>
 				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (co-supervised)</font> 
-                <br/>
-                <font color="AAAAAA">University of Trento, Italy.</font>
+                		<br/>
+                		<font>University of Trento, Italy.</font>
 			</center>
 		</td>
 		<td width="255" align="center">
@@ -113,14 +114,16 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wanghy.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Haoyu Wang (2023)</font> 
+				<font>Haoyu Wang</font><br/> 
+				 (2023)
 			</center>
 		</td>
 		<td width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/heyk.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA">Yikang He (2023)</font> 
+				<font>Yikang He</font><br/>
+				(2023)
 			</center>
 		</td>
 	</tr>
