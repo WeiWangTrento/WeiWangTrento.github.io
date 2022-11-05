@@ -43,7 +43,7 @@ nav: true
 ### Ph.D
 <table  rules="none" >
 	<tr>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
 				<br/>
@@ -51,7 +51,7 @@ nav: true
                 		(To be enrolled in 2023)
 			</center>
 		</td>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangc.jpg" width=180 />
 				<br/>
@@ -59,7 +59,7 @@ nav: true
                 		(To be enrolled in 2023)
 			</center>
 		</td>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
@@ -67,7 +67,7 @@ nav: true
 				 (2024 co-supervised)
 			</center>
 		</td>		
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
 				<br/>
@@ -81,7 +81,7 @@ nav: true
 
 <table  rules="none">
 	<tr>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjc.jpg" width=180 />
 				<br/>
@@ -90,7 +90,7 @@ nav: true
                 		<font>University of Trento, Italy.</font>
 			</center>
 		</td>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/renb.jpg" width=180 />
 				<br/>
@@ -99,9 +99,9 @@ nav: true
                 		<font>University of Trento, Italy.</font>
 			</center>
 		</td>
-		<td width="255" align="center">
+		<td width="265" align="center">
 		</td>		
-		<td width="255" align="center">
+		<td width="265" align="center">
 		</td>		
 	</tr>
 </table>
@@ -110,7 +110,7 @@ nav: true
 ### Master
 <table  rules="none">
 	<tr>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wanghy.jpg" width=180 />
 				<br/>
@@ -118,7 +118,7 @@ nav: true
 				 (2023)
 			</center>
 		</td>
-		<td width="255" align="center">
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/heyk.jpg" width=180 />
 				<br/>
