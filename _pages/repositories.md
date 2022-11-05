@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Our open source repositories is as follows.
+description: Our open source repositories are as follows.
 nav: true
 nav_order: 3
 ---
