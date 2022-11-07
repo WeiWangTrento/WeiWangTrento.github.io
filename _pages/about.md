@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Professor, Beijing Jiaotong University (<a href='http://en.bjtu.edu.cn/'>BJTU</a>).
+subtitle: Full Professor, Beijing Jiaotong University (<a href='http://en.bjtu.edu.cn/'>BJTU</a>).
 
 profile:
   align: right
