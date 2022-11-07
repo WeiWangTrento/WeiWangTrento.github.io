@@ -83,7 +83,7 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
 				<br/>
-				<font><a href="https://kingjamessong.github.io/">Yue Song</a> (co-supervised)</font>
+				<font color="AAAAAA"><a href="https://kingjamessong.github.io/">Yue Song</a> (co-supervised)</font>
 				<br/>
                 		<font>University of Trento, Italy.</font>
 			</center>
@@ -92,7 +92,7 @@ nav: true
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjc.jpg" width=180 />
 				<br/>
-				<font><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a> (co-supervised)</font>
+				<font color="AAAAAA"><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a> (co-supervised)</font>
 				<br/>
                 		<font>University of Trento, Italy.</font>
 			</center>
