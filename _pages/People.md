@@ -72,6 +72,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songky.jpg" width=180 />
 				<br/>
 				<font>Kuiyuan Sun (co-supervised)</font><br/>
+                2021
 			</center>
 		</td>
 	</tr>
@@ -85,7 +86,7 @@ nav: true
 				<br/>
 				<font color="AAAAAA"><a href="https://kingjamessong.github.io/">Yue Song</a> (co-supervised)</font>
 				<br/>
-                		<font>University of Trento, Italy.</font>
+                <font>2021, University of Trento, Italy.</font>
 			</center>
 		</td>
 		<td width="265" align="center">
@@ -94,16 +95,15 @@ nav: true
 				<br/>
 				<font color="AAAAAA"><a href="https://scholar.google.com/citations?user=SPEECTIAAAAJ&hl=en">Jichao Zhang</a> (co-supervised)</font>
 				<br/>
-                		<font>University of Trento, Italy.</font>
+                <font>2020, University of Trento, Italy.</font>
 			</center>
 		</td>
 		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/renb.jpg" width=180 />
 				<br/>
-				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (co-supervised)</font> 
-                		<br/>
-                		<font>University of Trento, Italy.</font>
+				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (co-supervised)</font><br/>
+                <font>2022, University of Trento, Italy.</font>
 			</center>
 		</td>		
 		<td width="265" align="center">
