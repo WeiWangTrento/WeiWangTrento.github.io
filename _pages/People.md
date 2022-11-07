@@ -75,7 +75,12 @@ nav: true
 				 (2021, co-supervised)
 			</center>
 		</td>
-		<td width="265" align="center">
+	</tr>
+</table>
+
+<table  rules="none">
+	<tr>
+        <td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
 				<br/>
@@ -84,11 +89,6 @@ nav: true
                 		<font>University of Trento, Italy.</font>
 			</center>
 		</td>
-	</tr>
-</table>
-
-<table  rules="none">
-	<tr>
 		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjc.jpg" width=180 />
