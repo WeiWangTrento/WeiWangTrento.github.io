@@ -64,9 +64,17 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
 				<font>Zixiang Li</font><br/>
-				 (2024 co-supervised)
+				 (To be enrolled in 2024, co-supervised)
 			</center>
-		</td>		
+		</td>
+        <td width="265" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/*.jpg" width=180 />
+				<br/>
+				<font>Kuiyuan Sun</font><br/>
+				 (2021, co-supervised)
+			</center>
+		</td>
 		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
