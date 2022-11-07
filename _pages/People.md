@@ -69,7 +69,7 @@ nav: true
 		</td>
         <td width="265" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/*.jpg" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songky.jpg" width=180 />
 				<br/>
 				<font>Kuiyuan Sun (co-supervised)</font><br/>
 			</center>
