@@ -21,5 +21,5 @@ I was a post-doc researcher in <a href="https://www.epfl.ch/labs/cvlab/">CVLab</
 
 ***
 
-> Prospective students please drop me an email or pass by my office. <\br>
+> Prospective students please drop me an email or pass by my office.
 > — You are always welcome
