@@ -7,4 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-`2022 winter` Multimodal Machine Learning
+`2022 winter (University of Trento)` Multimodal Machine Learning
