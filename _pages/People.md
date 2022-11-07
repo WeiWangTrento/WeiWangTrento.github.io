@@ -105,8 +105,6 @@ nav: true
                 		<br/>
                 		<font>University of Trento, Italy.</font>
 			</center>
-		</td>
-		<td width="265" align="center">
 		</td>		
 		<td width="265" align="center">
 		</td>		
