@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *I joined BJTU.* :sparkles: :smile:
+title: I joined BJTU :sparkles: :smile:
 date: 2022-08-02 09:00:00-0400
 inline: false
 ---
