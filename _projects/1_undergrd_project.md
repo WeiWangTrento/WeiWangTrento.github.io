@@ -8,7 +8,7 @@ category: Undergraduate
 ---
 
 <div class="row">
-    <div class="col-auto">
+    <div class="col-md-3 ml-md-auto">
         {% include figure.html path="assets/img/project_face/talking-face-2d-landmark-transfer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -17,7 +17,7 @@ category: Undergraduate
 </div>
 
 <div class="row">
-    <div class="col-auto">
+    <div class="col-md-3 ml-md-auto">
         {% include figure.html path="assets/img/project_face/talking-face-3d.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
