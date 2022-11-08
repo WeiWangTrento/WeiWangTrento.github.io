@@ -19,10 +19,10 @@ category: Undergraduate
     </div>
 </div>
 <div class="caption">
-    On the left, middle, & right, 2D based talking face generation.
+    2D landmark based talking face generation.
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-auto">
         {% include figure.html path="assets/img/project_face/talking-face-3d.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
