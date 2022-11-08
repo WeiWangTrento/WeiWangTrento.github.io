@@ -2,7 +2,7 @@
 layout: page
 title: Project 1
 description: Talking Face/Head Generation 
-img: assets/img/project_img/audio-and-motion-driven-talking-head-generation.png
+img: assets/img/project_face/audio-and-motion-driven-talking-head-generation.png
 importance: 1
 category: Undergraduate
 ---
