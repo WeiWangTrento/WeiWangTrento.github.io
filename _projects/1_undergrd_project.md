@@ -25,7 +25,7 @@ category: Undergraduate
     3D model based talking face generation.
 </div>
 
-*Problems* of 2D & 3D models:
+**Problems** of 2D & 3D models:
 - 2D landmark detection in videos is not very accurate due to self-occlusion such that the face may be distorted.
 - 3D model 
 
