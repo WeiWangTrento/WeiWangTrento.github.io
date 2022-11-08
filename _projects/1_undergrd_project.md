@@ -8,18 +8,21 @@ category: Undergraduate
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-auto">
         {% include figure.html path="assets/img/project_face/talking-face-2d-landmark-transfer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_face/talking-face-2d-landmark-portraits.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+</div>
+<div class="caption">
+    2D landmark based talking face generation.
+</div>
+
+<div class="row">
+    <div class="col-auto">
         {% include figure.html path="assets/img/project_face/talking-face-3d.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    2D landmark and 3D model based talking face generation.
+    3D model based talking face generation.
 </div>
 
 *Problems* of 2D & 3D models:
