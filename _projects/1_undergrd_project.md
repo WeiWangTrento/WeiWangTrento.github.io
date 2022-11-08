@@ -9,25 +9,25 @@ category: Undergraduate
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_img/lip1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_img/talking-face-2d-landmark.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_img/lip2.gif.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_img/talking-face-2d-landmark-portraits.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_img/talking-face-3d.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_img/talking-face-2d-landmark-transfer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left & Middle, 2D based lip synchronization. Right, 3-D based method.
+    On the left, middle, & right, 2D based talking face generation.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/talking-face-3d.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    3D model based talking face generation.
 </div>
 
 You can also put regular text between your rows of images.
