@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: Talking Face/Head Generation 
+img: assets/img/project_img/audio-and-motion-driven-talking-head-generation.png
 importance: 1
 category: Undergraduate
 ---
