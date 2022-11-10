@@ -46,7 +46,7 @@ nav: true
 	</tr>
 </table>
 <table  rules="none" align="center" >
-	<tr  bgcolor="#AED0EE">
+	<tr  bgcolor="#bcd7ee">
 		<td width="150" align="center">
 			<center>
 				<font>2022.11.08</font> 
