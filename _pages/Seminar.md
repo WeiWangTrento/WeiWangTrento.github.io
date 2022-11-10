@@ -23,7 +23,52 @@ nav: true
 			</center>
 		</td>		
 	</tr>
-</table>		
+</table>
+<table  rules="none" align="center" >
+	<tr  bgcolor="#AED0EE">
+		<td width="150" align="center">
+			<center>
+				<font>2022.11.10</font> 
+			</center>
+		</td>
+		<td width="150" align="center">
+			<center>
+				<font>Bin Wu</font><br/>
+         			<font>Chi Zhang</font><br/>
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+				<font>Denoising Diffusion Probabilistic Models(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+       	<font>On the importance of initialization and momentum in deep learning(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+			</center>
+		</td>		
+	</tr>
+</table>
+<table  rules="none" align="center" >
+	<tr  bgcolor="#74c0fc">
+		<td width="150" align="center">
+			<center>
+				<font>2022.11.08</font> 
+			</center>
+		</td>
+		<td width="150" align="center">
+			<center>
+				<font>Haoyu Wang</font><br/>
+         			<font>Yikang He</font><br/>
+  				<font>Zixiang Li</font><br/>
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+				<font>Swin Transformer(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+       	<font>Progress report of GAN(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+        <font>Mathematical derivation of diffusion model(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+			</center>
+		</td>		
+	</tr>
+</table>
+
 <table  rules="none" align="center" >
 	<tr  bgcolor="#AED0EE">
 		<td width="150" align="center">
@@ -49,6 +94,7 @@ nav: true
 		</td>		
 	</tr>
 </table>
+
 
   
   
