@@ -39,8 +39,8 @@ nav: true
 		</td>
 		<td width="800" align="center">
 			<center>
-				<font>Denoising Diffusion Probabilistic Models(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-       	<font>On the importance of initialization and momentum in deep learning(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+				<font>Denoising Diffusion Probabilistic Models(<a href="https://weiwangtrento.github.io/assets/pdf/wb1110.pdf">slides</a>)</font><br/>
+       	<font>On the importance of initialization and momentum in deep learning(<a href="https://weiwangtrento.github.io/assets/pdf/zc1110.pdf">slides</a>)</font><br/>
 			</center>
 		</td>		
 	</tr>
@@ -61,9 +61,9 @@ nav: true
 		</td>
 		<td width="800" align="center">
 			<center>
-				<font>Swin Transformer(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-       	<font>Progress report of GAN(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-        <font>Mathematical derivation of diffusion model(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+				<font>Swin Transformer(<a href="https://weiwangtrento.github.io/assets/pdf/why1108.pdf">slides</a>)</font><br/>
+       	<font>Progress report of GAN(<a href="https://weiwangtrento.github.io/assets/pdf/hyk1108.pdf">slides</a>)</font><br/>
+        <font>Mathematical derivation of diffusion model(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1108.pdf">slides</a>)</font><br/>
 			</center>
 		</td>		
 	</tr>
@@ -79,16 +79,19 @@ nav: true
 		<td width="150" align="center">
 			<center>
 				<font>Bin Wu</font><br/>
-         			<font>Zixiang Li</font><br/>
+         			<font>Chi Zhang</font><br/>
+				<font>Zixiang Li</font><br/>
   				<font>Yikang He</font><br/>
    			        <font>Haoyu Wang</font><br/>
 			</center>
 		</td>
 		<td width="800" align="center">
 			<center>
-				<font>Tricks  for model fine-tuning and migration learning on pytorch(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-       	<font>You Look Only Once(YOLO)v1,v2,v3(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
-        <font>StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/example_pdf.pdf">slides</a>)</font><br/>
+				<font>Tricks  for model fine-tuning and migration learning on pytorch(<a href="https://weiwangtrento.github.io/assets/pdf/wb1101.pdf">slides</a>)</font><br/>
+					<font>CIFAR-10 Classification using
+VGG,ResNet,GoogLeNet(<a href="https://weiwangtrento.github.io/assets/pdf/zc1101.pdf">slides</a>)</font><br/>
+       	<font>You Look Only Once(YOLO)v1,v2,v3(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1101.pdf">slides</a>)</font><br/>
+        <font>StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1101.pdf">slides</a>)</font><br/>
         <font>Classical deep learning based image segmentation algorithms: UNet,PSPNet,DeepLab(<a href="https://github.com/WeiWangTrento/WeiWangTrento.github.io/raw/master/assets/pdf/why1101.pdf">slides</a>)</font><br/>
 			</center>
 		</td>		
