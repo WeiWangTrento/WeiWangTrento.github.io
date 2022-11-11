@@ -91,7 +91,7 @@ nav: true
 					<font>CIFAR-10 Classification using
 VGG,ResNet,GoogLeNet(<a href="https://weiwangtrento.github.io/assets/pdf/zc1101.pdf">slides</a>)</font><br/>
        	<font>You Look Only Once(YOLO)v1,v2,v3(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1101.pdf">slides</a>)</font><br/>
-        <font>StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1101.pdf">slides</a>)</font><br/>
+        <font>StyleGANv1,v2,v3 overview(<a href="https://weiwangtrento.github.io/assets/pdf/1101hyk.pdf">slides</a>)</font><br/>
         <font>Classical deep learning based image segmentation algorithms: UNet,PSPNet,DeepLab(<a href="https://github.com/WeiWangTrento/WeiWangTrento.github.io/raw/master/assets/pdf/why1101.pdf">slides</a>)</font><br/>
 			</center>
 		</td>		
