@@ -31,12 +31,13 @@ I was a visiting student from 2015 to 2016 in the Learning and Vision (LV) Group
 More details can be found [here](/cv/).
 
 **Research Interests**:
-My research interests include computer vision and machine learning. <br />
+My research interests include computer vision and machine learning.
 - Computer Vision: 
-  - image/video generation, style transfer, segmentation, classification, <br />
-  with specific interest on *face analysis* including face landmark detection, face aging, face synthesis, etc. <br />
+  - image/video generation, style transfer, segmentation, classification
+  - with specific interest on *face analysis* including face landmark detection, face aging, face expression video synthesis, etc. <br />
 - Machine Learning: 
-  - numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
+  - Singular Value Decomposition (SVD) (used for second-order pooling, style transfer, etc.)
+  - Position Embedding in Vision Transformer, etc.
 
 **Prospective Students**: I am looking for self-motivated Master and Ph.D students to join my group. 
 If you are interested, please drop me an email with your CV and clearly state your English skills, coding skills, and research interests.
