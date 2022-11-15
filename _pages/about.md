@@ -19,13 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 <a href='http://mepro.bjtu.edu.cn/'>Center of Digital Media Information Processing</a>. <br />
 Institute of Information Science | Beijing Jiaotong University. <br />
-**Office**: 1013-B07, <br />
-Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
+**Office**: 1013-B07, Science & Technology Innovation Mansion of BJTU, Beijing 100044. <br />
 **Email**: wei.wang AT bjtu.edu.cn | wangwei1990 AT gmail.com. <br />
-
-**Prospective Students**: I am looking for self-motivated Master and Ph.D students to join my group. 
-If you are interested, please drop me an email with your CV and clearly state your English skills, coding skills, and research interests.
-Besides, outstanding BJTU undergraduates are welcome to join our projects, please feel free to contact me. 
 
 **About Me** <br />
 I am currently a Professor in the Institute of Information Science at BJTU.
@@ -37,8 +32,12 @@ More details can be found [here](/cv/).
 
 **Research Interests**:
 My research interests include computer vision and machine learning. <br />
-- Computer Vision: image/video generation, style transfer, segmentation, classification, vision & language, <br />
-with specific interest on *face analysis* including face landmark detection, face aging, face synthesis, etc. <br />
-- Machine Learning: numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
+- Computer Vision: 
+  - image/video generation, style transfer, segmentation, classification, <br />
+  with specific interest on *face analysis* including face landmark detection, face aging, face synthesis, etc. <br />
+- Machine Learning: 
+  - numerical methods for deep learning (e.g. second-order pooling), Singular Value Decomposition (SVD), Position Embedding in Vision Transformer, etc. <br />
 
-
+**Prospective Students**: I am looking for self-motivated Master and Ph.D students to join my group. 
+If you are interested, please drop me an email with your CV and clearly state your English skills, coding skills, and research interests.
+Besides, outstanding BJTU undergraduates are welcome to join our projects, please feel free to contact me. 
