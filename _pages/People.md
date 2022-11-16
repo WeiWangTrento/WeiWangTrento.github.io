@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /People/
-title: Visual Intelligence Lab at BJTU
+title: People
 nav: true
 ---
 
