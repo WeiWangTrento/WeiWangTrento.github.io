@@ -1,7 +1,7 @@
  ---
 layout: page_people
-permalink: /People/
-title: People
+permalink: /People_test/
+title: People_test
 nav: true
 ---
 
