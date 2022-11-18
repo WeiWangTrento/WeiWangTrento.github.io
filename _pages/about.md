@@ -42,3 +42,30 @@ My research interests include computer vision and machine learning.
 **Prospective Students**: I am looking for self-motivated Master and Ph.D students to join my group. 
 If you are interested, please drop me an email with your CV and clearly state your English skills, coding skills, and research interests.
 Besides, outstanding BJTU undergraduates are welcome to join our projects, please feel free to contact me. 
+
+**Selected Awards and Honors**:
+- Best Doctoral Thesis Award from CVPRL, Italy (2018)
+- Best Paper Award Nominee, ACM Multimedia (2018)
+- ICCV Doctoral Consortium Grant (2017)
+- Erasmus+ Mobility Grant for visiting NUS, Singapore (2016)
+
+**Selected Services**
+- 2022 ELLIS Member
+- 2019 ICPR Associate Editor
+- 2017 ICCV PC Member
+- Journal Reviewing Services
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - International Journal of Computer Vision (IJCV)
+  - IEEE Transactions on Image Processing (TIP)
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - Elsevier Journal of Computer Vision and Image Understanding (CVIU)
+  - IEEE Transactions on Multimedia (TMM)
+  - IEEE Transactions on Multimedia Computing Communications and Applications (TOMM)
+  - Elsevier Journal of Pattern Recognition (PR)
+  - Elsevier Journal of Neurocomputing (Neurocomputing)
+- Conference Reviewing Services
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2018/2019/2020/2022)
+  - IEEE International Conference on Computer Vision (ICCV 2017/2019)
+  - European Conference on Computer Vision (ECCV 2018)
+  - ACM International Conference on Multimedia (ACM MM 2017/2019)
+  - International Joint Conference on Artificial Intelligence (IJCAI 2019)
