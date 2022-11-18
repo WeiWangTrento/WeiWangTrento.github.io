@@ -31,7 +31,6 @@ I was a visiting student from 2015 to 2016 in the Learning and Vision (LV) Group
 More details can be found [here](/cv/).
 
 **Research Interests**:
-My research interests include computer vision and machine learning.
 - Computer Vision: 
   - image/video generation, style transfer, segmentation, classification
   - with specific interest on *face analysis* including face landmark detection, face aging, face expression video synthesis, etc. <br />
