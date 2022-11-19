@@ -11,7 +11,8 @@ nav: true
 			<center>
 			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lab_logo.png" width=420/>
 			</center>
-    </tr>
+		</td>
+   </tr>
 </table>
 
 ## Principal Investigator
