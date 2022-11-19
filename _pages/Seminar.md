@@ -40,9 +40,9 @@ nav: true
 		</td>
 		<td width="800" align="center">
 			<center>
-	<font>Training of Diffusion Model and Guided Diffusion(<a href="https://weiwangtrento.github.io/assets/pdf/why1115.pdf">slides</a>)</font><br/>
+	<font>Training of Diffusion Model and Guided Diffusion(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1115.pdf">slides</a>)</font><br/>
        	<font>Progress report of GAN(<a href="https://weiwangtrento.github.io/assets/pdf/hyk1115.pdf">slides</a>)</font><br/>
-        <font>ConvNext and progress report(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1115.pdf">slides</a>)</font><br/>
+        <font>ConvNext and progress report(<a href="https://weiwangtrento.github.io/assets/pdf/why1115.pdf">slides</a>)</font><br/>
 			</center>
 		</td>		
 	</tr>
