@@ -9,11 +9,12 @@ nav: true
 	<tr>
 		<td width="1200"  align="center">
 			<center>
-			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lab_logo.png" width=420/>
+			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lab_logo.png" width=480/>
 			</center>
 		</td>
    </tr>
-</table>
+</table><br>
+
 
 ## Principal Investigator
 <br>
