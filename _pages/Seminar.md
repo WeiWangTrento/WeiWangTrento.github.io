@@ -25,6 +25,29 @@ nav: true
 	</tr>
 </table>
 <table  rules="none" align="center" >
+	<tr  bgcolor="#cee2f2">
+		<td width="150" align="center">
+			<center>
+				<font>2022.11.08</font> 
+			</center>
+		</td>
+		<td width="150" align="center">
+			<center>
+				<font>Zixiang Li</font><br/>
+         			<font>Yikang He</font><br/>
+  				<font>Haoyu Wang</font><br/>
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+	<font>Training of Diffusion Model and Guided Diffusion(<a href="https://weiwangtrento.github.io/assets/pdf/why1115.pdf">slides</a>)</font><br/>
+       	<font>Progress report of GAN(<a href="https://weiwangtrento.github.io/assets/pdf/hyk1115.pdf">slides</a>)</font><br/>
+        <font>ConvNext and progress report(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1115.pdf">slides</a>)</font><br/>
+			</center>
+		</td>		
+	</tr>
+</table>
+<table  rules="none" align="center" >
 	<tr  bgcolor="#AED0EE">
 		<td width="150" align="center">
 			<center>
