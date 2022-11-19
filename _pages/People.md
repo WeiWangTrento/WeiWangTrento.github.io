@@ -9,7 +9,7 @@ nav: true
 	<tr>
 		<td width="1200"  align="center">
 			<center>
-			<h1><b color="#4aaac5">V</b>isual <b color="#4aaac5">I</b>ntelligence Lab (<b color="#4aaac5">VI</b> Lab)</h1>
+			<h1><b><font color="#4aaac5">V</font></b>isual <b><font color="#4aaac5">I</font></b>ntelligence Lab (<b><font color="#4aaac5">VI</font></b> Lab)</h1>
 			</center>
 		</td>
    </tr>
