@@ -5,6 +5,14 @@ title: People
 nav: true
 ---
 
+<table  rules="none">
+	<tr>
+		<td width="1200"  align="center">
+			<center>
+			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lab_logo.png" width=420/>
+			</center>
+    </tr>
+</table>
 
 ## Principal Investigator
 <br>
