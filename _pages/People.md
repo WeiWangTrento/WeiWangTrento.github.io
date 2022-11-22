@@ -58,7 +58,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
 				<br/>
 				<font>Bin Wu</font> <br/>
-                		(To be enrolled in 2023)
+                		(To be enrolled in 2024)
 			</center>
 		</td>
 		<td width="265" align="center">
