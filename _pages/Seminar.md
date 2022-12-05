@@ -24,6 +24,53 @@ nav: true
 		</td>		
 	</tr>
 </table>
+
+<table  rules="none" align="center" >
+	<tr  bgcolor="#cee2f2">
+		<td width="150" align="center">
+			<center>
+				<font>2022.11.29</font> 
+			</center>
+		</td>
+		<td width="150" align="center">
+			<center>
+				<font>Weixin Ye</font><br/>
+  				<font>Haoyu Wang</font><br/>
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+	<font>QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection(<a href="https://weiwangtrento.github.io/assets/pdf/ywx1129.pdf">slides</a>)</font><br/>
+        <font>Grounded Language-Image Pre-training(GLIP)(<a href="https://weiwangtrento.github.io/assets/pdf/why1129.pdf">slides</a>)</font><br/>
+			</center>
+		</td>		
+	</tr>
+</table>
+
+<table  rules="none" align="center" >
+	<tr  bgcolor="#AED0EE">
+		<td width="150" align="center">
+			<center>
+				<font>2022.11.22</font> 
+			</center>
+		</td>
+		<td width="150" align="center">
+			<center>
+				<font>Zixiang Li</font><br/>
+         			<font>Yikang He</font><br/>
+  				<font>Haoyu Wang</font><br/>
+			</center>
+		</td>
+		<td width="800" align="center">
+			<center>
+	<font>DDPM & DDIM(<a href="https://weiwangtrento.github.io/assets/pdf/lzx1122.pdf">slides</a>)</font><br/>
+       	<font>Survey on 3D face reconstruction(<a href="https://weiwangtrento.github.io/assets/pdf/hyk1122.pdf">slides</a>)</font><br/>
+        <font>Survey on small object detection(<a href="https://weiwangtrento.github.io/assets/pdf/why1122.pdf">slides</a>)</font><br/>
+			</center>
+		</td>		
+	</tr>
+</table>
+
 <table  rules="none" align="center" >
 	<tr  bgcolor="#cee2f2">
 		<td width="150" align="center">
