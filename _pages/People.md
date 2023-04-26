@@ -53,7 +53,7 @@ nav: true
 ### Ph.D
 <table  rules="none" >
 	<tr>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/yewx.png" width=180 />
 				<br/>
@@ -61,7 +61,7 @@ nav: true
                 		(To be enrolled in 2023)
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangc.jpg" width=180 />
 				<br/>
@@ -69,7 +69,7 @@ nav: true
                 		(To be enrolled in 2023)
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
 				<br/>
@@ -77,7 +77,7 @@ nav: true
                 		(To be enrolled in 2024)
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
@@ -85,13 +85,12 @@ nav: true
 				 (To be enrolled in 2024)
 			</center>
 		</td>
-    
 	</tr>
 </table>
 
 <table  rules="none">
 	<tr>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songky.jpg" width=180 />
 				<br/>
@@ -99,7 +98,7 @@ nav: true
                 2021
 			</center>
 		</td>
-        <td width="265" align="center">
+        <td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
 				<br/>
@@ -108,7 +107,7 @@ nav: true
                 <font>2021, University of Trento, Italy.</font>
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjc.jpg" width=180 />
 				<br/>
@@ -117,7 +116,7 @@ nav: true
                 <font>2020, University of Trento, Italy.</font>
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/renb.jpg" width=180 />
 				<br/>
@@ -125,16 +124,16 @@ nav: true
                 <font>2022, University of Trento, Italy.</font>
 			</center>
 		</td>		
-		<td width="265" align="center">
+		<td  width="255" align="center">
 		</td>		
 	</tr>
 </table>
-<br>
+
 
 ### Master
 <table  rules="none">
 	<tr>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wanghy.jpg" width=180 />
 				<br/>
@@ -142,7 +141,7 @@ nav: true
 				 (2023)
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/heyk.jpg" width=180 />
 				<br/>
@@ -150,7 +149,7 @@ nav: true
 				(2023)
 			</center>
 		</td>
-		<td width="265" align="center">
+		<td  width="255" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/gaoyc.png" width=180 />
 				<br/>
