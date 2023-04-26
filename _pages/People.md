@@ -122,7 +122,8 @@ nav: true
 				<br/>
 				<font color="AAAAAA"><a href="https://amazingren.github.io/">Bin Ren</a> (co-supervised)</font><br/>
                 <font>2022, University of Trento, Italy.</font>
-			</center>	
+			</center>
+		</td>
 	</tr>
 </table>
 
@@ -156,8 +157,6 @@ nav: true
 		</td>
 	</tr>
 </table>
-
-
 <br>
 
 ### Undergraduate
