@@ -55,10 +55,10 @@ nav: true
 	<tr>
 		<td width="265" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/yewx.png" width=180 />
 				<br/>
-				<font>Bin Wu</font> <br/>
-                		(To be enrolled in 2024)
+				<font>Weixin Ye</font><br/>
+                		(To be enrolled in 2023)
 			</center>
 		</td>
 		<td width="265" align="center">
@@ -71,13 +71,27 @@ nav: true
 		</td>
 		<td width="265" align="center">
 			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
+				<br/>
+				<font>Bin Wu</font> <br/>
+                		(To be enrolled in 2024)
+			</center>
+		</td>
+		<td width="265" align="center">
+			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
 				<font>Zixiang Li (co-supervised)</font><br/>
 				 (To be enrolled in 2024)
 			</center>
 		</td>
-        <td width="265" align="center">
+    
+	</tr>
+</table>
+
+<table  rules="none">
+	<tr>
+		<td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songky.jpg" width=180 />
 				<br/>
@@ -85,11 +99,6 @@ nav: true
                 2021
 			</center>
 		</td>
-	</tr>
-</table>
-
-<table  rules="none">
-	<tr>
         <td width="265" align="center">
 			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/songy.jpg" width=180 />
@@ -138,6 +147,14 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/heyk.jpg" width=180 />
 				<br/>
 				<font>Yikang He</font><br/>
+				(2023)
+			</center>
+		</td>
+		<td width="265" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/gaoyc.png" width=180 />
+				<br/>
+				<font>Yichen Gao</font><br/>
 				(2023)
 			</center>
 		</td>
