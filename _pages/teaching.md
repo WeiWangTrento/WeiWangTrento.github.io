@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 `2022 winter (University of Trento)` `Multimodal Machine Learning` \
-`2023 Spring (Beijing Jiaotong University)` `Digital Image Processing` \
+`2023 Spring (Beijing Jiaotong University)` `Digital Image Processing` 
 - Introduction (_week 1_)
 - Orthogonal Transform (_week 2_) \
 Fourier Transform \
@@ -31,3 +31,4 @@ Image Smoothing: Lowpass Spatial Filters
 - Chapter6：Image Generation Application: Image Inpainting
 - Chapter7：Image Generation Application: Super Resolution
 - Chapter8：Cross Modal Generation: Text2Image Generation & Contrastive Language-Image Pre-training (CLIP)
+You can get all the slides of this course <font color="AAAAAA"><a href="https://www.aliyundrive.com/s/W8QHGJ8HdBC">here</a> </font>
