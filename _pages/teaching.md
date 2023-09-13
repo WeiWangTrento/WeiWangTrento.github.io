@@ -21,3 +21,13 @@ Histogram Equalization
 - Image Enhancement (_week 5_)\
 Histogram Specification/Matching\
 Image Smoothing: Lowpass Spatial Filters
+
+`2023 Fall (Beijing Jiaotong University)` `Artificial Intelligence Generated Content`
+- Chapter1：Image Generation Model - Variational AutoEncoder (VAE)
+- Chapter2：Image Generation Model - Generated Adversarial Network (GAN)
+- Chapter3：Image Generation Model - Neural Radiance Fields (NeRF)
+- Chapter4：Image Generation Model – Diffusion Model
+- Chapter5：Image Generation Application: Image-to-Image Translation
+- Chapter6：Image Generation Application: Image Inpainting
+- Chapter7：Image Generation Application: Super Resolution
+- Chapter8：Cross Modal Generation: Text2Image Generation & Contrastive Language-Image Pre-training (CLIP)
