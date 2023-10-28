@@ -58,7 +58,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/yewx.png" width=180 />
 				<br/>
 				<font>Weixin Ye</font><br/>
-                		(To be enrolled in 2023)
+                		(2023)
 			</center>
 		</td>
 		<td  width="255" align="center">
@@ -66,7 +66,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangc.jpg" width=180 />
 				<br/>
 				<font>Chi Zhang</font><br/>
-                		(To be enrolled in 2023)
+                		(2023)
 			</center>
 		</td>
 		<td  width="255" align="center">
