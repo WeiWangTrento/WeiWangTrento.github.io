@@ -23,7 +23,7 @@ nav: true
 	<tr>
 		<td width="290">
 			<left>
-			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wangwei_low_rev.png" width=230/>
+			<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/prof_ww.jpg" width=230/>
 			</left>
 		</td>
 		<td width="600" >
