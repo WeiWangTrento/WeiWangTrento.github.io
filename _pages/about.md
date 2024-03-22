@@ -6,7 +6,7 @@ subtitle: Full Professor, Beijing Jiaotong University (<a href='http://en.bjtu.e
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: people_imgs/prof_ww.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>1013-B07</p>
