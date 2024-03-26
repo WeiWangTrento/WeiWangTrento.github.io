@@ -131,10 +131,26 @@ nav: true
 	<tr>
 		<td  width="255" align="center">
 			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/liuyh.jpg" width=180 />
+				<br/>
+				<font>Yuhuai Liu</font><br/>
+                		(To be enrolled in 2024)
+			</center>
+		</td>
+		<td  width="255" align="center">
+			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/liuzj.png" width=180 />
 				<br/>
 				<font>Zijian Liu</font><br/>
                 		(To be enrolled in 2025)
+			</center>
+		</td>
+		<td  width="255" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/gaoj.png" width=180 />
+				<br/>
+				<font>Jing Gao</font><br/>
+                		(To be enrolled in 2026)
 			</center>
 		</td>
 	</tr>
