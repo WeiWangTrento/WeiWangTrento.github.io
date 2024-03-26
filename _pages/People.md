@@ -230,7 +230,6 @@ nav: true
 ### Undergraduate
 
 University Student Innovation & Entrepreneurship Development Program: 
-
 <br>
 1. Photo Background Replacement and Face Cartoonization Based on Deep Learning
 <br>
