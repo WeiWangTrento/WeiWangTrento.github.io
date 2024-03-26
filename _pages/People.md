@@ -229,11 +229,14 @@ nav: true
 
 ### Undergraduate
 
-University Student Innovation & Entrepreneurship Development Program: Photo Background Replacement and Face Cartoonization Based on Deep Learning
+University Student Innovation & Entrepreneurship Development Program: 
+
+<br>
+1. Photo Background Replacement and Face Cartoonization Based on Deep Learning
 <br>
 Members: Dongqing Ma; Xinyuan Zhang; Lihua Lei 
-
-University Student Innovation & Entrepreneurship Development Program: Small Object Detection with the Assistance of AIGC
+<br>
+2. Small Object Detection with the Assistance of AIGC
 <br>
 Members: Yuxin Zhang; Wuyang Chen; Wuxuan Huang
 
