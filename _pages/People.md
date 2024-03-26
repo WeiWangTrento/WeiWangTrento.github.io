@@ -224,7 +224,7 @@ nav: true
 			</center>
 		</td>
 	</tr>
-</table>
+</table> 
 <br>
 
 ### Undergraduate
