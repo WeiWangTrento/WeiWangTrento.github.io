@@ -113,7 +113,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
 				<br/>
 				<font>Bin Wu</font> <br/>
-                		(To be enrolled in 2024)
+                		(2024)
 			</center>
 		</td>
 		<td  width="255" align="center">
@@ -121,7 +121,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lizx.jpg" width=180 />
 				<br/>
 				<font>Zixiang Li (co-supervised)</font><br/>
-				 (To be enrolled in 2024)
+				 (2024)
 			</center>
 		</td>
 	</tr>
@@ -183,7 +183,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/lia.png" width=180 />
 				<br/>
 				<font>Ang li</font><br/>
-				(To be enrolled in 2024)
+				(2024)
 			</center>
 		</td>
 	</tr>
@@ -196,7 +196,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjy.png" width=180 />
 				<br/>
 				<font>Jingyi Zhang</font><br/> 
-				 (To be enrolled in 2024)
+				 (2024)
 			</center>
 		</td>
 		<td  width="255" align="center">
@@ -204,7 +204,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wangcy.png" width=180 />
 				<br/>
 				<font>Chunyang Wang</font><br/>
-				(To be enrolled in 2024)
+				(2024)
 			</center>
 		</td>
 		<td  width="255" align="center">
@@ -212,7 +212,7 @@ nav: true
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/guozb.png" width=180 />
 				<br/>
 				<font>Zhibin Guo</font><br/>
-				(To be enrolled in 2024)
+				(2024)
 			</center>
 		</td>
 	</tr>
