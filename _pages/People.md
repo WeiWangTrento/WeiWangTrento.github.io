@@ -147,7 +147,7 @@ nav: true
 		</td>
 		<td  width="255" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wuf.jpg" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wufei.jpg" width=180 />
 				<br/>
 				<font>Fei Wu</font><br/>
 				(2025)
@@ -224,7 +224,7 @@ nav: true
 		</td>
 		<td  width="255" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjyx.jpg" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangyx.jpg" width=180 />
 				<br/>
 				<font>Yuxin Zhang</font><br/>
 				(2025)
@@ -245,7 +245,7 @@ nav: true
 	<tr>
 		<td  width="255" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/mincx.png" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/mincx.jpg" width=180 />
 				<br/>
 				<font>Chengxi Min</font><br/>
 				(2025)
