@@ -110,7 +110,7 @@ nav: true
 		</td>
 		<td  width="255" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wub.jpg" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wbin.jpg" width=180 />
 				<br/>
 				<font>Bin Wu</font> <br/>
                 		(2024)
@@ -131,10 +131,26 @@ nav: true
 	<tr>
 		<td  width="255" align="center">
 			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjy.png" width=180 />
+				<br/>
+				<font>Jingyi Zhang</font><br/> 
+				 (2024)
+			</center>
+		</td>
+		<td  width="255" align="center">
+			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/liuzj.png" width=180 />
 				<br/>
 				<font>Zijian Liu</font><br/>
-                		(To be enrolled in 2025)
+                		(2025)
+			</center>
+		</td>
+		<td  width="255" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wuf.jpg" width=180 />
+				<br/>
+				<font>Fei Wu</font><br/>
+				(2025)
 			</center>
 		</td>
 		<td  width="255" align="center">
@@ -147,7 +163,6 @@ nav: true
 		</td>
 	</tr>
 </table>
-
 
 
 
@@ -193,14 +208,6 @@ nav: true
 	<tr>
 		<td  width="255" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjy.png" width=180 />
-				<br/>
-				<font>Jingyi Zhang</font><br/> 
-				 (2024)
-			</center>
-		</td>
-		<td  width="255" align="center">
-			<center>
 				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/wangcy.png" width=180 />
 				<br/>
 				<font>Chunyang Wang</font><br/>
@@ -215,9 +222,39 @@ nav: true
 				(2024)
 			</center>
 		</td>
+		<td  width="255" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/zhangjyx.jpg" width=180 />
+				<br/>
+				<font>Yuxin Zhang</font><br/>
+				(2025)
+			</center>
+		</td>
+		<td  width="255" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/changj.jpg" width=180 />
+				<br/>
+				<font>Jie Chang</font><br/>
+				(2025)
+			</center>
+		</td>
+	</tr>
+</table> 
+
+<table  rules="none">
+	<tr>
+		<td  width="255" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/mincx.png" width=180 />
+				<br/>
+				<font>Chengxi Min</font><br/>
+				(2025)
+			</center>
+		</td>
 	</tr>
 </table> 
 <br>
+
 
 ### Undergraduate
 
