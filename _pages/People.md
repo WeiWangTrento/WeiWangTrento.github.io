@@ -251,7 +251,16 @@ nav: true
 				(2025)
 			</center>
 		</td>
+		<td  width="255" align="center">
+			<center>
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/madq.jpg" width=180 />
+				<br/>
+				<font>Dongqing Ma</font><br/>
+				(2025)
+			</center>
+		</td>
 	</tr>
+	
 </table> 
 <br>
 
