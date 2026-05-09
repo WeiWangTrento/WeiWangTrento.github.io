@@ -155,7 +155,7 @@ nav: true
 		</td>
 		<td  width="255" align="center">
 			<center>
-				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/gaoj.png" width=180 />
+				<img src="https://raw.githubusercontent.com/WeiWangTrento/WeiWangTrento.github.io/master/assets/img/people_imgs/gaoj.jpg" width=180 />
 				<br/>
 				<font>Jing Gao</font><br/>
                 		(To be enrolled in 2026)
