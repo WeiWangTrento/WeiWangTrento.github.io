@@ -49,9 +49,15 @@ Besides, outstanding BJTU undergraduates are welcome to join our projects, pleas
 - Erasmus+ Mobility Grant for visiting NUS, Singapore (2016)
 
 **Selected Services**
-- 2022 ELLIS Member
-- 2019 ICPR Associate Editor
-- 2017 ICCV PC Member
+- Area Chair of CVPR 2027
+- Senior Program Committee of AAAI 2027 & 2026
+- Area Chair of NeurIPS 2026
+- Area Chair of ICME 2026
+- Area Chair of PRCV 2025
+- Area Chair of ICMR 2025
+- Member of ELLIS 2022
+- Associate Editor of ICPR 2019
+- PC Member of ICCV 2017
 
 **Journal Reviewing Services**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
